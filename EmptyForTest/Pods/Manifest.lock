@@ -1,0 +1,12 @@
+PODS:
+  - HandyFrame (1.1.2)
+
+DEPENDENCIES:
+  - HandyFrame (~> 1.1.2)
+
+SPEC CHECKSUMS:
+  HandyFrame: d505faced4d4fb820d66bd88b654dbf7b88da424
+
+PODFILE CHECKSUM: 46be1b43f744903ed55f5440a2d17aaa9f3d0a71
+
+COCOAPODS: 1.2.0
